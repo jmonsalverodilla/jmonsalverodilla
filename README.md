@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=jmonsalve96&show_icons=true&theme=dark)](https://github.com/jmonsalve96/github-readme-stats)
 
 ### Contact: 
-[![Linkedin Badge](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/javier-monsalve-rodilla-7b5435154/)](https://https://www.linkedin.com/in/javier-monsalve-rodilla-7b5435154/)
+[![Linkedin Badge](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla-7b5435154/)](https://www.linkedin.com/in/javier-monsalve-rodilla-7b5435154/)
 [![Gmail Badge](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
