@@ -7,6 +7,8 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 [Flask App: Simple Regression Model](https://github.com/jmonsalverodilla/Simple-regression-model-in-Flask) 
 
+[Flask App: Geolocator](https://github.com/jmonsalverodilla/Geolocator) 
+
 # Forged repositories
 [Interactive visualizations](https://github.com/jmonsalverodilla/blog-posts) Using Altair + Ipywidgets
 
