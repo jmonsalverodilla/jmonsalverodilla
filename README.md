@@ -3,7 +3,7 @@
 My name is Javier Monsalve, I studied Physics and I've been working for more than two years as a Data Scientist, first for a Consulting Company and now for a bank. I am a curious person who enjoys challenges and is always willing to learn.
 
 # My own repositories
-[Flask App Iris Dataset](https://github.com/jmonsalverodilla/blog-posts) Flask app deployed at Heroku
+[Flask App Iris Dataset](https://github.com/jmonsalverodilla/flask_app_iris_dataset) Flask app deployed at Heroku
 
 
 # Forged repositories
