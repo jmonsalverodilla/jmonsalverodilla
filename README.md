@@ -3,9 +3,11 @@
 My name is Javier Monsalve, I studied Physics and I've been working for more than two years as a Data Scientist, first for a Consulting Company and now for a bank. I am a curious person who enjoys challenges and is always willing to learn.
 
 # My own repositories
+[Flask App Iris Dataset](https://github.com/jmonsalverodilla/blog-posts) Flask app deployed at Heroku
+
 
 # Forged repositories
-[blog-posts](https://github.com/jmonsalve96/blog-posts) Using Altair + Ipywidgets
+[Interactive visualizations](https://github.com/jmonsalverodilla/blog-posts) Using Altair + Ipywidgets
 
 <!--
 **jmonsalve96/jmonsalve96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
