@@ -9,6 +9,9 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 [Flask App: Geolocator](https://github.com/jmonsalverodilla/Geolocator) 
 
+[Credit-Card-Clustering-with-K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
+
+
 <!--
 **jmonsalve96/jmonsalve96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
