@@ -9,7 +9,14 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 [Flask App: Geolocator](https://github.com/jmonsalverodilla/Geolocator) 
 
-[Credit-Card-Clustering-with-K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
+[Recommender System Using Collaborative Filtering](https://github.com/jmonsalverodilla/Recommender-System-Using-Collaborative-Filtering) 
+
+[Credit Card Clustering with K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
+
+[Market Basket Analysis](https://github.com/jmonsalverodilla/Market-Basket-Analysis) 
+
+[Time Series Analysis](https://github.com/jmonsalverodilla/Time-Series-Analysis) 
+
 
 
 <!--
