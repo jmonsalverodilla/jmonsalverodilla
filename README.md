@@ -4,7 +4,7 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-monsalve-rodilla/" target="blank"> <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla" alt="javier-monsalve-rodilla"/> </a>  
-<a href="mailto:javiermonsalverodilla@gmail.com" target="blank"> <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla" alt="javier-monsalve-rodilla"/> </a>  
+<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://medium.com/@javiermonsalverodilla" target="blank"> <img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@javiermonsalverodilla/" alt="maartengrootendorst"/> </a>
  
 
