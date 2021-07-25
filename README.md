@@ -2,6 +2,8 @@
 # Hello World! 👋 Welcome to my Github Profile!
 My name is Javier Monsalve, I studied Physics and I've been working for more than two years as a Data Scientist, first for a Consulting Company and now for a bank. I am a curious person who enjoys challenges and is always willing to learn.
 
+<a href="mailto:info@example.com?subject=subject&cc=cc@example.com">mail link</a>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-monsalve-rodilla/" target="blank"> <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla" alt="javier-monsalve-rodilla"/> </a>  
 <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
