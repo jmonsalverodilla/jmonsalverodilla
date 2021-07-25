@@ -2,6 +2,10 @@
 # Hello World! 👋 Welcome to my Github Profile!
 My name is Javier Monsalve, I studied Physics and I've been working for more than two years as a Data Scientist, first for a Consulting Company and now for a bank. I am a curious person who enjoys challenges and is always willing to learn.
 
+### Contact: 
+[![Linkedin Badge](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla/)](https://www.linkedin.com/in/javier-monsalve-rodilla/)
+[![Gmail Badge](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
+
 # Repositories
 [Flask App: Simple Classification Model](https://github.com/jmonsalverodilla/Simple-classification-model-in-Flask) 
 
@@ -44,7 +48,3 @@ Here are some ideas to get you started:
 
 # My statistics in Github
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=jmonsalverodilla&show_icons=true&theme=dark)](https://github.com/jmonsalverodilla/github-readme-stats)
-
-### Contact: 
-[![Linkedin Badge](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla/)](https://www.linkedin.com/in/javier-monsalve-rodilla/)
-[![Gmail Badge](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
