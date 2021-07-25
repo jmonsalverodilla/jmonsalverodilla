@@ -10,8 +10,9 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 <!--
 [![Gmail](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
 -->
-  
-# Repositories
+ 
+<details>
+<summary>Repositories</summary>
 [Flask App: Simple Classification Model](https://github.com/jmonsalverodilla/Simple-classification-model-in-Flask) 
 
 [Flask App: Simple Regression Model](https://github.com/jmonsalverodilla/Simple-regression-model-in-Flask) 
@@ -26,7 +27,7 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 [Time Series Analysis](https://github.com/jmonsalverodilla/Time-Series-Analysis) 
 
-
+</details> 
 
 <!--
 **jmonsalve96/jmonsalve96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
