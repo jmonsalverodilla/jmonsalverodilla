@@ -2,9 +2,16 @@
 # Hello World! 👋 Welcome to my Github Profile!
 My name is Javier Monsalve, I studied Physics and I've been working for more than two years as a Data Scientist, first for a Consulting Company and now for a bank. I am a curious person who enjoys challenges and is always willing to learn.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla/)](https://www.linkedin.com/in/javier-monsalve-rodilla/)
-[![Gmail Badge](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/javier-monsalve-rodilla/" target="blank"> <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla/" alt="javier-monsalve-rodilla"/> </a>  
+<a target="blank"> <img align="center" src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)" alt="javier-monsalve-rodilla"/> </a> 
+<a href="https://medium.com/@javiermonsalverodilla" target="blank"> <img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@javiermonsalverodilla" alt="maartengrootendorst"/> </a>
+ 
+<!--
+[![Linkedin](https://img.shields.io/badge/-Javier_Monsalve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-monsalve-rodilla/)](https://www.linkedin.com/in/javier-monsalve-rodilla/)
+[![Gmail](https://img.shields.io/badge/-javiermonsalverodilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiermonsalverodilla@gmail.com)](mailto:javiermonsalverodilla@gmail.com)
+-->
+  
 # Repositories
 [Flask App: Simple Classification Model](https://github.com/jmonsalverodilla/Simple-classification-model-in-Flask) 
 
