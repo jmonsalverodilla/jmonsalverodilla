@@ -23,7 +23,7 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
 
 [Flask App: Geolocator](https://github.com/jmonsalverodilla/Geolocator) 
 
-[Recommender System Using Collaborative Filtering](https://github.com/jmonsalverodilla/Recommender-System-Using-Collaborative-Filtering) 
+[Recommender Systems] (https://github.com/jmonsalverodilla/Recommender Systems) 
 
 [Credit Card Clustering with K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
 
