@@ -16,14 +16,15 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
  
 <summary> Click to expand </summary>
  
+[Recommender Systems using Streamlit](https://github.com/jmonsalverodilla/Recommender-Systems) 
  
-[Flask App: Simple Classification Model](https://github.com/jmonsalverodilla/Simple-classification-model-in-Flask) 
+[Iris Classifier using Streamlit](https://github.com/jmonsalverodilla/Iris-Classifier-Streamlit) 
+ 
+[Iris Classifier using Flask](https://github.com/jmonsalverodilla/Iris-Classifier-Flask) 
 
-[Flask App: Simple Regression Model](https://github.com/jmonsalverodilla/Simple-regression-model-in-Flask) 
+[Simple Regression Model using Flask](https://github.com/jmonsalverodilla/Simple-regression-model-in-Flask) 
 
-[Flask App: Geolocator](https://github.com/jmonsalverodilla/Geolocator) 
-
-[Recommender Systems](https://github.com/jmonsalverodilla/Recommender-Systems) 
+[Geolocator app using Flask](https://github.com/jmonsalverodilla/Geolocator) 
 
 [Credit Card Clustering with K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
 
