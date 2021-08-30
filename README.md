@@ -15,6 +15,8 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
  
 <summary> Click to expand </summary>
  
+[Stock Portfolio Analyzer](https://github.com/jmonsalverodilla/Stock-Portfolio-Analyzer) 
+ 
 [Recommender Systems using Streamlit](https://github.com/jmonsalverodilla/Recommender-Systems) 
  
 [Iris Classifier using Streamlit](https://github.com/jmonsalverodilla/Iris-Classifier-Streamlit) 
