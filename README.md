@@ -18,17 +18,17 @@ My name is Javier Monsalve, I studied Physics and I've been working for more tha
  
 <summary> Click to expand </summary>
  
-[Stock Portfolio Analyzer](https://github.com/jmonsalverodilla/Stock-Portfolio-Analyzer) 
- 
+[Microservices Web App](https://github.com/jmonsalverodilla/Python-Microservices-Web-App) 
+
 [Recommender Systems using Streamlit](https://github.com/jmonsalverodilla/Recommender-Systems) 
  
-[Iris Classifier using Streamlit](https://github.com/jmonsalverodilla/Iris-Classifier-Streamlit) 
+[Stock Portfolio Analyzer](https://github.com/jmonsalverodilla/Stock-Portfolio-Analyzer) 
  
-[Iris Classifier using Flask](https://github.com/jmonsalverodilla/Iris-Classifier-Flask) 
+[Geolocator app using Flask](https://github.com/jmonsalverodilla/Geolocator) 
+ 
+[Iris Classifier using Streamlit](https://github.com/jmonsalverodilla/Iris-Classifier-Streamlit) 
 
 [Simple Regression Model using Flask](https://github.com/jmonsalverodilla/Simple-regression-model-in-Flask) 
-
-[Geolocator app using Flask](https://github.com/jmonsalverodilla/Geolocator) 
 
 [Credit Card Clustering with K-Means](https://github.com/jmonsalverodilla/Credit-Card-Clustering-with-K-Means) 
 
